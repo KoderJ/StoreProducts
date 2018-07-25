@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=description\ price\ points
+comment0.target=Product(java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructor\n\ Takes\ the\ initial\ values\ for\ all\ attributes.\ \n\ The\ integer\ values\ must\ be\ greater-than\ or\ equal\ to\ zero\ \n\ The\ description\ must\ be\ a\ non-null,\ non-empty\ string.\ \n\ If\ any\ of\ these\ requirements\ are\ not\ met,\ throw\ an\ unchecked\ exception.\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=
+comment2.target=java.lang.String\ getPrice()
+comment3.params=
+comment3.target=java.lang.String\ getPoints()
+comment4.params=
+comment4.target=java.lang.String\ getSize()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ RETURNS\ DETAILS\ OF\ ALL\ ATTRIBUTES\n
+numComments=6

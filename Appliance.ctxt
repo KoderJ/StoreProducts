@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=description\ price\ points\ energyRating
+comment0.target=Appliance(java.lang.String,\ int,\ int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Appliance\n\ Energy\ rating\ set\ between\ 1\ and\ 5\n
+comment1.params=
+comment1.target=java.lang.String\ getEnergy()
+comment1.text=\n\ Returns\ energry\ rating\ of\ an\ Appliance\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Returns\ all\ attributes\ of\ Appliance\n
+numComments=3
